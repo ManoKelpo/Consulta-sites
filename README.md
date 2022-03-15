@@ -1,6 +1,6 @@
 # Consulta-sites
 
-o Consulta-sites é uma ferramenta Linux programada em python que faz uma requisição em um ou mais sites fornecidos pelo usuário, e mostra o status online/offline de cada um, assim como os seus `status code`.
+o Consulta-sites é uma ferramenta Linux programada em python que faz uma requisição em um ou mais sites fornecidos pelo usuário, e mostra o status online/offline de cada um, assim como os seus códigos de requisição HTTP.
 
 
 #### Requisitos
